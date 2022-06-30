@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddExifInfo", "AddExifInfo\AddExifInfo.csproj", "{8C4F4553-BA2C-4C6E-A395-48B4C721287D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4F4553-BA2C-4C6E-A395-48B4C721287D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A4B4BE-D27D-4D1D-B5AE-C8469EAA48CD}
+	EndGlobalSection
+EndGlobal

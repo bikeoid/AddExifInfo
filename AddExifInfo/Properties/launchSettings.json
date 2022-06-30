@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MapillaryToOSC": {
+      "commandName": "Project",
+      "commandLineArgs": " /GoProImages=\".\\GoPro\\TestFolder\\\""
+    }
+  }
+}
